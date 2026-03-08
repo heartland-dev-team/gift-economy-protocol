@@ -1,6 +1,6 @@
 # 感謝経済プロトコル（Gift Economy Protocol）
 
-**Working Draft v0.1 — 2026-03-08**
+**Published v0.1（2026-03-08）**
 
 ---
 
